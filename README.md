@@ -1,7 +1,7 @@
 
 ![lab_sus_short](https://user-images.githubusercontent.com/22638210/174436134-cb285d64-c367-435b-ad4e-05d737bbcf8c.png)
 
-# Biblioteca Online de Dados e Evicências Científicas 
+# Biblioteca Online de Dados e Evidências Científicas 
 
 ### Sobre 
 Este repositório público reune as ferramentas técnicas para o desenvolvimento da Plataforma LabSUS, consistindo em uma biblioteca virtual inteligente que reúne dados e
