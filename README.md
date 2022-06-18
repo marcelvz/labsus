@@ -8,4 +8,5 @@ Este repositório público reune as ferramentas técnicas para o desenvolvimento
 evidências científicas em saúde, para o Sistema Único de Saúde (SUS). Com o uso de Inteligência Artificial, a LabSUS possibilitará a extração rápida de informações científicas
 sobre qualquer tema na área da saúde, auxiliando os mais diversos agentes, como profissionais de saúde, gestores, pesquisadores e cidadãos em busca de informações. 
 
+Projeto desenvolvido por: Aline Fabienski, Arlindo Candini, Lucas Garcia, Marcel Zanardine e Shirley Karolina
 
